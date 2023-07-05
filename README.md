@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and PHP**
 
-- 💬 Ask me about **Python and Kali Linux Tools**
+- 💬 Ask me about **Python, Kali Linux tools and Metasploit**
 
 - 📫 How to reach me **wexob@protonmail.com**
 
