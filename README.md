@@ -23,3 +23,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wixobb&" alt="wixobb" /></p>
+
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wixobb&layout=compact&langs_count=16&theme=dracula"/>
