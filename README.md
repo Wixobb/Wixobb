@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirsad</h1>
-<h3 align="center">I'm just a casual guy who's into offensive security and bug bounty.</h3>
+<h3 align="center">I'm just a casual guy who's into offensive security and CTF.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wixobb&label=Profile%20views&color=0e75b6&style=flat" alt="wixobb" /> </p>
 
